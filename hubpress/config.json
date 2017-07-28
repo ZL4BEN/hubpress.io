@@ -10,8 +10,8 @@
   },
   "urls": {
     "site": "http://zl4ben.com",
-    "hubpress": "http://zl4ben.com",
-    "theme": "http://zl4ben.com/themes/casper",
+    "hubpress": "https://zl4ben.github.io",
+    "theme": "//zl4ben.com/themes/casper",
     "images": "http://zl4ben.com/images"
   },
   "initialisationConfigComponent": {
