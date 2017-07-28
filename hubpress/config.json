@@ -1,18 +1,18 @@
 {
   "meta": {
-    "username": "ZL4BEN",
+    "username": "zl4ben",
     "repositoryName": "zl4ben.github.io",
     "branch": "master",
-    "cname": ""
+    "cname": "zl4ben.com"
   },
   "theme": {
     "name": "casper"
   },
   "urls": {
-    "site": "https://ZL4BEN.github.io",
+    "site": "http://zl4ben.com",
     "hubpress": "http://zl4ben.com",
-    "theme": "//ZL4BEN.github.io/themes/casper",
-    "images": "https://ZL4BEN.github.io/images"
+    "theme": "http://zl4ben.com/themes/casper",
+    "images": "http://zl4ben.com/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
