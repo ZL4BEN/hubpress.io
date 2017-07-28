@@ -1,9 +1,0 @@
-= Zl4ben's first blog post
-
-:hp-image: /covers/cover.png
-:published_at: 2017-07-28
-:hp-tags: HubPress, Blog, Open_Source,
-:hp-alt-title: radios stuffs
-
-hello my name is ben white and I like things
-
