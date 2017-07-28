@@ -5,6 +5,22 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://ZL4BEN.github.io",
+    "hubpress": "https://zl4ben.github.io",
+    "theme": "//ZL4BEN.github.io/themes/casper",
+    "images": "https://ZL4BEN.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
